@@ -16,3 +16,13 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
+const Admin = () => import("./Admin");
+
+export default ({ Vue, options, router }) => {
+  router.addRoutes([
+    {
+      path: "/admin",
+      component: Admin
+    }
+  ]);
+};
