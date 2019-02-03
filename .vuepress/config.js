@@ -1,10 +1,10 @@
 module.exports = {
-    title: "VuePress Deploy",
+    title: "Zona NTB",
     locales: {
         '/': {
-            lang: 'de-DE',
-            title: 'VuePress Deploy',
-            description: 'Vuepress with Netlify Deploy Button'
+            lang: 'id-ID',
+            title: 'Zona NTB',
+            description: 'Situs Khusus Warga Nusa Tenggara Barat'
         }
     },
     head: [
