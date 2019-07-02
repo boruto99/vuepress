@@ -25,17 +25,21 @@ module.exports = {
         repo: 'capriosa/vuepress-deploy',
 
         nav: [{
-                text: 'Start',
+                text: 'Blogger',
                 link: '/docs/',
             },
             {
-                text: 'Admin',
+                text: 'Ide Nulis',
                 link: '/admin',
             },
             {
-                text: 'NetlifyCMS Config Help',
+                text: 'Trending',
                 link: '/docs/netlifycms-configuration.html',
-            }
+            },
+               {
+                text: 'Wirausaha',
+                link: '/docs/netlifycms-configuration.html',
+            },
 
         ]
 
