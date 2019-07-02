@@ -1,10 +1,10 @@
 module.exports = {
-    title: "Zona NTB",
+    title: "IDPENA",
     locales: {
         '/': {
             lang: 'id-ID',
-            title: 'Zona NTB',
-            description: 'Situs Khusus Warga Nusa Tenggara Barat'
+            title: 'ID PENA',
+            description: 'IDPENA. See More. Do More'
         }
     },
     head: [
